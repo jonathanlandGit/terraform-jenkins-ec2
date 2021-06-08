@@ -1,0 +1,9 @@
+.idea/
+.terraform/
+*.tfstate
+# ./*.tfstate
+# example/*.tfstate
+# !bootstrap/*.tfstate
+*.tfstate.backup
+# /Infrastructure/terraform.tfvars
+.terraform.tfstate.lock.info
