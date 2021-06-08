@@ -29,8 +29,6 @@ ls -l ~/.ssh/jenkins-key.pem
 
 Step 2: Change the tfvars as needed 
 
-`https://github.com/jonathanlandGit/aws-ecs-fargate-tf.git`
-
 Step 3: Initialize and deploy the infrastructure 
 
 ```
