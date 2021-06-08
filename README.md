@@ -11,7 +11,7 @@ you may need to mv the file from downloads to root.
 mv ~/Downloads/jenkins-key.pem ~/.ssh
 ```
 
-You may need to also change permissions to the file also
+You may need to also change permissions to the file also.
 
 ```
 ls -l ~/.ssh/jenkins-key.pem
