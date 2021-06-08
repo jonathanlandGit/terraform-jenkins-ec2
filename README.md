@@ -7,7 +7,9 @@ Creates a Jenkins EC2 instance using Terraform IaC.
 Step 1: Create a key pair via command line or in AWS. If on mac, make sure it's saved in ssh folder at root. If not, then
 you may need to mv the file from downloads to root. 
 
-e.g., `mv ~/Downloads/jenkins-key.pem ~/.ssh` 
+```
+mv ~/Downloads/jenkins-key.pem ~/.ssh
+```
 
 You may need to also change permissions to the file also
 
