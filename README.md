@@ -1,6 +1,6 @@
 # Jenkins instance setup via Terraform
 
-This is a demo showing how to create a Jenkins EC2 using Terraform IaC.
+Creates a Jenkins EC2 instance using Terraform IaC.
 
 ## Setup
 
